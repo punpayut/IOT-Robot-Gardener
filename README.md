@@ -6,7 +6,7 @@ we can turn on the light bulb in the couldy day and we can take picture of our p
 <p></p>
 <p>
 <img src="images/3.jpg" style="width:280px;height:500px;">
-<img src="images/2.jpg" style="width:550px;height:500px;">
+<img src="images/2.jpg" style="width:540px;height:500px;">
 </p>
 
 
