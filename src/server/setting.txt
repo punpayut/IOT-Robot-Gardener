@@ -1,0 +1,7 @@
+moisture 60
+light 10
+camera_time 19:00
+light_time_start 09:00
+light_time_end 20:00
+isLightOn False
+isPumpOn False
