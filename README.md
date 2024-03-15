@@ -6,7 +6,7 @@ we can turn on the light bulb in the couldy day and we can take picture of our p
 <p></p>
 <p>
 <img src="images/3.jpg" style="width:400px;height:500px;">
-<img src="images/2.jpg" style="width:600px;height:500px;">
+<img src="images/2.jpg" style="width:500px;height:500px;">
 </p>
 
 
@@ -14,4 +14,8 @@ we can turn on the light bulb in the couldy day and we can take picture of our p
 <img src="images/1.jpg">
 
 ## Components
-<hr>
+<ul>
+  <li>Raspberry Pi 4B</li>
+  <li>Soil Moisture Sensor</li>
+  <li>Raspberry Pi Camera Module</li>
+</ul>  
