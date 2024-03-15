@@ -22,4 +22,5 @@ we can turn on the light bulb in the couldy day and we can take picture of our p
   <li>Relay Module 5V</li>
   <li>Raspberry Pi Camera Module</li>
   <li>Micro Submersible Water Pump DC 3V-5V</li>
+  <li>MCP3008 Analog to Digital Converter (ADC)</li>
 </ul>  
