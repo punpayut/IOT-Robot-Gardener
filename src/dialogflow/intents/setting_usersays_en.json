@@ -1,0 +1,49 @@
+[
+  {
+    "id": "2814953f-2661-4053-9320-802c9c7636bb",
+    "data": [
+      {
+        "text": "ดู",
+        "userDefined": false
+      },
+      {
+        "text": "ค่าที่ตั้งไว้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fccb4bc-ee9d-48c4-8384-99619519d2b3",
+    "data": [
+      {
+        "text": "view setting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5811520a-a64a-40a0-83b3-e971c61515e0",
+    "data": [
+      {
+        "text": "ดู",
+        "userDefined": false
+      },
+      {
+        "text": "การตั้งค่า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1978944f-ac7f-4e18-b22d-9c65827790a4",
+    "data": [
+      {
+        "text": "มอนิเตอร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a641dd0f-5b87-4fca-a0fc-9b0cfd3206d4",
+    "data": [
+      {
+        "text": "ค่าเซนเซอร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1794f29e-2507-4455-b87f-87380fbde1c3",
+    "data": [
+      {
+        "text": "ดู",
+        "userDefined": false
+      },
+      {
+        "text": "ค่าเซนเซอร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef0d587e-a1f6-4eee-a5df-3153e4a43a52",
+    "data": [
+      {
+        "text": "monitor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

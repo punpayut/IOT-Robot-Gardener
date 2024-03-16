@@ -1,0 +1,113 @@
+{
+  "id": "744fcf20-2b1a-47cb-a26e-e11009c12005",
+  "name": "new setting light",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e2bc208e-2700-4bf8-bab7-d31dc644e453",
+          "name": "set",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$set",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "090ee5b7-f2e2-4eaa-a499-c6a710d99473",
+          "name": "light",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$light",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0c066422-acee-4d08-b0d1-1974573b5fec",
+          "name": "lightpercentage",
+          "required": true,
+          "dataType": "@sys.percentage",
+          "value": "$lightpercentage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "เอากี่ %"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "925e7689-ecf6-40c3-8677-e5c9537745d6",
+          "name": "period",
+          "required": true,
+          "dataType": "@sys.time-period",
+          "value": "$period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ใส่ช่วงเวลาด้วย"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "656af7e9-cbd8-4399-9e98-2a24c14c0393",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

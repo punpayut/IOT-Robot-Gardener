@@ -1,0 +1,97 @@
+[
+  {
+    "id": "46c6aee6-1925-439d-b434-737714294a16",
+    "data": [
+      {
+        "text": "set",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "moisture",
+        "meta": "@sys.any",
+        "alias": "moisture",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "87",
+        "meta": "@sys.percentage",
+        "alias": "moisturepercentage",
+        "userDefined": false
+      },
+      {
+        "text": "%",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d67e71b5-fc4e-4693-a3ca-e46df1ac70fe",
+    "data": [
+      {
+        "text": "ตั้งค่า",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "ความชื้น",
+        "meta": "@sys.any",
+        "alias": "moisture",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a11a0056-cec8-4170-8443-06543beefb6c",
+    "data": [
+      {
+        "text": "ตั้งค่า",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "ความชื้น",
+        "meta": "@sys.any",
+        "alias": "moisture",
+        "userDefined": true
+      },
+      {
+        "text": "ใหม่ ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "meta": "@sys.percentage",
+        "alias": "moisturepercentage",
+        "userDefined": true
+      },
+      {
+        "text": "%",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

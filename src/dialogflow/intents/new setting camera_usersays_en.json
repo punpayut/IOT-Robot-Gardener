@@ -1,0 +1,89 @@
+[
+  {
+    "id": "6a443354-e40d-476d-a0d2-870f7d828f63",
+    "data": [
+      {
+        "text": "set",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "camera",
+        "meta": "@sys.any",
+        "alias": "photo",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0900",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e7eb8e0-6f12-4588-9038-11286f5debd4",
+    "data": [
+      {
+        "text": "ตั้งค่า",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "กล้อง",
+        "meta": "@sys.any",
+        "alias": "photo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd029b94-09c0-4818-89f1-e7c5b85abe04",
+    "data": [
+      {
+        "text": "ตั้งเวลา",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "ถ่ายรูป",
+        "meta": "@sys.any",
+        "alias": "photo",
+        "userDefined": true
+      },
+      {
+        "text": "ใหม่ ",
+        "userDefined": false
+      },
+      {
+        "text": "0700",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

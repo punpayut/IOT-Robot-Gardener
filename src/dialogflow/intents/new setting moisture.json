@@ -1,0 +1,80 @@
+{
+  "id": "45b5883e-d76b-42a0-a0dc-13b40e18ea7e",
+  "name": "new setting moisture",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73bef77c-19c6-4bb3-9c88-ed61338d4ae5",
+          "name": "set",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$set",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "35a78a38-6372-42c9-99cc-aaea66fd1c9c",
+          "name": "moisture",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$moisture",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e4e4adef-e491-4dc2-997b-2faaa8fac6fc",
+          "name": "moisturepercentage",
+          "required": true,
+          "dataType": "@sys.percentage",
+          "value": "$moisturepercentage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "กี่ %"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

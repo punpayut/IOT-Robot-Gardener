@@ -1,0 +1,161 @@
+[
+  {
+    "id": "cbb8dc6e-79bf-47cf-9fdf-6161f5bcf7e4",
+    "data": [
+      {
+        "text": "ตั้งค่า",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "แสง",
+        "meta": "@sys.any",
+        "alias": "light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c28fc401-29df-4ac7-bb73-fd67fdcf2b59",
+    "data": [
+      {
+        "text": "ตั้งค่า",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "ไฟ",
+        "meta": "@sys.any",
+        "alias": "light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4307d61a-c4fb-4d23-ba88-9d445c061bc2",
+    "data": [
+      {
+        "text": "set",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "meta": "@sys.any",
+        "alias": "light",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "69",
+        "meta": "@sys.percentage",
+        "alias": "lightpercentage",
+        "userDefined": false
+      },
+      {
+        "text": "% ",
+        "userDefined": false
+      },
+      {
+        "text": "07:00-08:00",
+        "meta": "@sys.time-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad7fc0cf-3844-487f-af42-fac375c82c75",
+    "data": [
+      {
+        "text": "ตั้งค่า",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "ความสว่าง",
+        "meta": "@sys.any",
+        "alias": "light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42062178-0027-4020-a166-30d89ea6f913",
+    "data": [
+      {
+        "text": "ตั้งค่า",
+        "meta": "@sys.any",
+        "alias": "set",
+        "userDefined": true
+      },
+      {
+        "text": "ความสว่าง",
+        "meta": "@sys.any",
+        "alias": "light",
+        "userDefined": true
+      },
+      {
+        "text": "ใหม่ ",
+        "userDefined": false
+      },
+      {
+        "text": "80",
+        "meta": "@sys.percentage",
+        "alias": "lightpercentage",
+        "userDefined": true
+      },
+      {
+        "text": "% ใน",
+        "userDefined": false
+      },
+      {
+        "text": "ช่วง",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": true
+      },
+      {
+        "text": "เวลา ",
+        "userDefined": false
+      },
+      {
+        "text": "0700-1900",
+        "meta": "@sys.time-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
